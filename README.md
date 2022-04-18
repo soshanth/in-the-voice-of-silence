@@ -8,3 +8,7 @@
 
 [FAQs](faq.md)
 
+    ***
+    ℹ️  **Note:** _this is a test_
+    ***
+
