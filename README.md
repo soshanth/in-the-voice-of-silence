@@ -1,6 +1,8 @@
 ## In the Voice of Silence
 
-[About page](about.md)
+[About the book](about.md)
+
 [Anand Malligawad](anand.md)
+
 [Cause](cause.md)
 
