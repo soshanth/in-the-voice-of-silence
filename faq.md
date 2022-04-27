@@ -51,4 +51,4 @@
 </AccordionItem>        
 </Accordion>  
 
-### Back to the [home page](README.md)
+## Back to the [home page](README.md)
