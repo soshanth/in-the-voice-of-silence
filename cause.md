@@ -28,7 +28,7 @@ You can contribute to the cause in the following ways:
 
 - Buy the book for yourself.
 
-- Gift it to your spouse, kid, friend, parents or relatives.
+- Gift it to your spouse, kids, parents, friends or relatives.
 
 - Give it as a return gift.
 
