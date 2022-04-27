@@ -24,7 +24,7 @@ All over.
 
 # You can be that droplet of rain!!
 
-You can contribute to teh cause in the following ways:
+You can contribute to the cause in the following ways:
 
 - Buy the book for yourself.
 
