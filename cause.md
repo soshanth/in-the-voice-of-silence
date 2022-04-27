@@ -24,4 +24,17 @@ All over.
 
 # You can be that droplet of rain!!
 
+You can contribute to teh cause in the following ways:
+
+- Buy the book for yourself.
+
+- Gift it to your spouse, kid, friend, parents or relatives.
+
+- Give it as a return gift.
+
+- SHare the details with your friends and relatives.
+
+- Share the details of the book on social media.
+
+
 ## Back to the [home page](README.md)
