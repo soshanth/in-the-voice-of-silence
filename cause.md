@@ -32,7 +32,7 @@ You can contribute to the cause in the following ways:
 
 - Give it as a return gift.
 
-- SHare the details with your friends and relatives.
+- Share the details with your friends and relatives.
 
 - Share the details of the book on social media.
 
