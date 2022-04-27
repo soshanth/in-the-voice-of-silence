@@ -24,4 +24,4 @@ All over.
 
 # You can be that droplet of rain!!
 
-### Back to the [home page](README.md)
+## Back to the [home page](README.md)
