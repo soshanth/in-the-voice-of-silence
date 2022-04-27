@@ -19,4 +19,4 @@ This book is dedicated to the maintenance of the lakes in Bengaluru.
  
 - Follow Anand on [LinkedIn](https://www.linkedin.com/in/anand-malligavad-4588842b/)
 
-### Back to the [home page](README.md)
+## Back to the [home page](README.md)
