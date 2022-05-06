@@ -5,7 +5,7 @@
       </p>
      <br/>
      <p>
-       This is a test
+       This is a book of poems. Poems filled with lessons derived from nature and things around me. The poems are written in very simple English :)
     </p>
      <br/>
 </AccordionItem>
@@ -15,7 +15,7 @@
       </p>
      <br/>
      <p>
-       This is a test
+       The royalty I get on this book directly goes to Anand Malligawad who is a lake conservationist at Bengaluru. You will be contributing to rejuvenate the lakes in Bengaluru.
     </p>
      <br/>
 </AccordionItem>    
@@ -25,7 +25,13 @@
       </p>
      <br/>
      <p>
-       This is a test
+       The book is available on Amazon, Flipkart and WFP Store (my publisher). Ebooks are also available. The book is not only available in India but also outside India.
+           
+           Amazon: https://www.amazon.in/dp/1636405347
+           
+           WFP Store: https://store.whitefalconpublishing.com/collections/latest-books/products/in-the-voice-of-silence
+
+           Flipkart: https://www.flipkart.com/in-the-voice-of-silence/p/itm4f2d6a9bbc0b1?pid=9781636405346
     </p>
      <br/>
 </AccordionItem>     
