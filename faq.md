@@ -35,27 +35,7 @@
      <br/>           
     </p>
      <br/>
-</AccordionItem>     
-<AccordionItem title="Royalty">
-      <p>
-        <span style="color:blue"><em>Question: </em></span><span style="color:blue">Can I get more details on Royalty?</span>
-      </p>
-     <br/>
-     <p>
-       This is a test
-    </p>
-     <br/>
-</AccordionItem>        
-<AccordionItem title="Your Contribution">
-      <p>
-        <span style="color:blue"><em>Question: </em></span><span style="color:blue">How can I contribute?</span>
-      </p>
-     <br/>
-     <p>
-       This is a test
-    </p>
-     <br/>
-</AccordionItem>        
+</AccordionItem>          
 </Accordion>  
 
 ## Back to the [home page](README.md)
