@@ -26,11 +26,8 @@
      <br/>
      <p>
        The book is available on Amazon, Flipkart and WFP Store (my publisher). Ebooks are also available. The book is not only available in India but also outside India.
-           
-           Amazon: https://www.amazon.in/dp/1636405347
-           
+           Amazon: https://www.amazon.in/dp/1636405347           
            WFP Store: https://store.whitefalconpublishing.com/collections/latest-books/products/in-the-voice-of-silence
-
            Flipkart: https://www.flipkart.com/in-the-voice-of-silence/p/itm4f2d6a9bbc0b1?pid=9781636405346
     </p>
      <br/>
